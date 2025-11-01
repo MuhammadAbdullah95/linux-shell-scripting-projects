@@ -1,0 +1,33 @@
+# Shell script temporary files
+*.swp
+*.swo
+*~
+
+# Backup files
+*.bak
+*.backup
+
+# Log files (optional - remove if you want to include logs)
+*.log
+
+# Temporary test directories (optional)
+test-*/
+temp-*/
+
+# IDE and editor files
+.vscode/
+.idea/
+*.code-workspace
+.DS_Store
+
+# Generated backup archives (optional - remove if you want to include samples)
+# backup-*.tar.gz
+
+# OS generated files
+Thumbs.db
+.DS_Store
+.Spotlight-V100
+.Trashes
+
+# Claude Code settings (local only)
+.claude/settings.local.json
