@@ -1,3 +1,7 @@
+![Shell Script](https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+
 # Linux Shell Scripting Projects Portfolio
 
 A comprehensive collection of shell scripting projects demonstrating proficiency in Linux command-line tools, Bash scripting, system automation, and data processing.
